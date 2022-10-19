@@ -1,0 +1,58 @@
+main {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0 100px 0;
+}
+
+.logo {
+    margin: 100px 0 50px 0;
+}
+
+.botao {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.75;
+    margin: 0 0 15px 0;
+    border-radius: 50px;
+    color: var(--texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #FA9401;
+    width: 265px;
+    height: 50px;
+    transition: 0.5s;
+}
+
+.botao:hover {
+    background-color: #FA9401;
+}
+
+.botao-icon {
+    margin: 0 11px 0 0;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+    main {
+        margin: 0 0 280px 0;
+    }
+
+    .logo {
+        margin: 298px 0 50px 0;
+    }
+}
+
+/* Celular */
+@media (max-width: 500px) {
+    main {
+        margin: 0 0 100px 0;
+    }
+
+    .logo {
+        margin: 86px 0 50px 0;
+    }
+}

@@ -1,0 +1,10 @@
+body {
+    box-sizing: border-box;
+    background-color: var(--body-contato);
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.container {
+    margin: 0 auto 0 auto;
+    width: 100%;
+}
