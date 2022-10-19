@@ -1,6 +1,6 @@
 ## Teste de emprego 
 Empresa: Ideia 2001 <br>
-Cargo: Desenvolvedor Web Júnior
+Cargo: Desenvolvedor Web Front-end
 
 ## Sobre o projeto
 Teste voltado para o front-end, qual desenvolvi com os conhecimentos que possuo, com o projeto, tive a oportunidade de treinar e melhorar minhas habilidades dentro da programação, como código limpo, relembrar e práticar conceitos quais eu não dominava e assim obtendo mais experiência na rensposividade dos layouts, adpatando para mobile, tablet e até mesmo para computadores.
